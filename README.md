@@ -1,5 +1,6 @@
 
-# Projeto do curso "SQL Server Integration Services (SSIS) - ETL Essencial" do Charles Lima
+# Projeto do curso "SQL Server Integration Services (SSIS) - ETL Essencial"
+*Instrutor Charles Lima - Udemy*
 Criação de um DW utilizando conceitos de Modelagem Dimensional (Star Schema e Snow Flake), e integração de dados via Integration Services 2019.
 
 >O SQL Server Integration Services é uma plataforma para criar integração de dados em nível empresarial e soluções de transformações de dados. Use Integration Services para solucionar problemas empresariais complexos copiando ou baixando arquivos, carregando data warehouses, limpando e minerando dados e gerenciando objetos SQL Server e dados.  
