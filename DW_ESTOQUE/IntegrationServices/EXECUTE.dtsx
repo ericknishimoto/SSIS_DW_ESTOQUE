@@ -11,8 +11,8 @@
   DTS:LocaleID="1046"
   DTS:ObjectName="ALL_EXECUTE"
   DTS:PackageType="5"
-  DTS:VersionBuild="14"
-  DTS:VersionGUID="{4C3F84A1-4336-400C-8ECA-A046D670C753}">
+  DTS:VersionBuild="15"
+  DTS:VersionGUID="{C6EB9DE9-A2F6-4847-A8DD-55C54006D9A8}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:Variables />
@@ -411,7 +411,7 @@
           PanelSize="427,349"
           Size="427,392"
           Id="Package\Carga SOURCE --&gt; STAGE"
-          TopLeft="43.75,451" />
+          TopLeft="42.75,410" />
         <NodeLayout
           Size="189,42"
           Id="Package\Carga STAGE --&gt; DW_DIMENSOES\Carga DimCategoria"
@@ -446,7 +446,7 @@
           PanelSize="468,347"
           Size="468,390"
           Id="Package\Carga STAGE --&gt; DW_DIMENSOES"
-          TopLeft="509,453" />
+          TopLeft="508,412" />
         <NodeLayout
           Size="167,42"
           Id="Package\Carga STAGE --&gt; DW_FATOS\Carga FatoEntrada"
@@ -461,10 +461,10 @@
           PanelSize="244,205"
           Size="244,248"
           Id="Package\Carga STAGE --&gt; DW_FATOS"
-          TopLeft="1023,522" />
+          TopLeft="1022,481" />
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint]"
-          TopLeft="470.75,647.5">
+          TopLeft="469.75,606.5">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
@@ -486,7 +486,7 @@
         </EdgeLayout>
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint 1]"
-          TopLeft="977,647">
+          TopLeft="976,606">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
@@ -507,26 +507,26 @@
           </EdgeLayout.Labels>
         </EdgeLayout>
         <AnnotationLayout
-          Text="EXTRAÇÃO dos dados do banco de ORIGEM&#xD;&#xA;para CARREGAMENDO no banco de STAGE"
+          Text="EXTRAÇÃO dos dados do banco de ORIGEM&#xA;para CARREGAMENDO no banco de STAGE"
           ParentId="Package"
           FontInfo="{assembly:Null}"
-          Size="263,60"
+          Size="263,56"
           Id="7fdbffaf-5fa9-43eb-8b21-ac38f5e7af71"
-          TopLeft="123,386" />
+          TopLeft="122,345" />
         <AnnotationLayout
           Text="TRANSFORMAÇÃO dos dados do banco de STAGE&#xA;para CARREGAMENDO no banco de dimensões no DW"
           ParentId="Package"
           FontInfo="{assembly:Null}"
           Size="320,56"
           Id="4090b27b-235c-4dfd-abef-913166ebff86"
-          TopLeft="589.75,384" />
+          TopLeft="588.75,343" />
         <AnnotationLayout
           Text="TRANSFORMAÇÃO dos dados do banco de STAGE&#xA;para CARREGAMENDO no banco de fatos no DW"
           ParentId="Package"
           FontInfo="{assembly:Null}"
           Size="295,56"
           Id="8628db36-715d-4ecd-aa58-22b5dfddc6a6"
-          TopLeft="1007.75,447" />
+          TopLeft="1006.75,406" />
       </GraphLayout>
     </LayoutInfo>
   </Package>

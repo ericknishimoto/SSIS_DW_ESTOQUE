@@ -26,7 +26,7 @@
           <SSIS:Property SSIS:Name="CreatorComputerName">NOTE-ERICK</SSIS:Property>
           <SSIS:Property SSIS:Name="Description">
           </SSIS:Property>
-          <SSIS:Property SSIS:Name="PasswordVerifier" SSIS:Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAARZdELgm7zEicPsgN64Tm5gAAAAACAAAAAAAQZgAAAAEAACAAAABQVuAxXB382LsHQAw60Q261v3p5kHlTxplZy1w3Jsy5QAAAAAOgAAAAAIAACAAAAAAd0yQkk6xngmCAXNMFCYmFH8TvTLX34Ad/glSy+xBxZAAAADkhMm6mnFSbGs6E9VQ1j5BFfhFD6zdF9n5AfUxaItk6f+2zBYHfF3mw087z52xgv3nTa4a6Fns8TThTVau59KbhcFN2QkgtQ35AxZ93IaM7jVj01QlcQ2cAh2FcRIlCZBEZ2W9PjkMO/6yIYp1b1iwtmoV0z2+MuYC11tO5vjasDjRx0Xdu+Mm6mkjC2ieTp5AAAAA3em6jkwvUEwTl74gqPEeIZ92QGIwNopwoFwGRM/RftFjkqUB57l6viSIaieijWog9i34dW9B96BrlNxvz9eLGg==</SSIS:Property>
+          <SSIS:Property SSIS:Name="PasswordVerifier" SSIS:Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAgAZ8SkO+KU6ujCLZsrkEygAAAAACAAAAAAAQZgAAAAEAACAAAAChbb20xQQ1YwUt5TAJSMPYfOnbCP/a0c8eVTEMKm6B4wAAAAAOgAAAAAIAACAAAACYWrMPheqNtZYVo2o+nj+kQIq4H47cbv066jqKkCUmAZAAAADcI+1O9l2lPXsN6wFtYtNnD9lvPXf5wrzmmrLhY2CFuRT0VwRv0tNrio6yTdFtwCupX3jEyySqizkDsPT6lcUtSBzW+CMSehASO55/0Jbvw47OTd5WRgY6gbn8GJOnOTlcXLg7pDQYiSO7wf2WOJfKOc0X2SGTkoN3fCvK75go0itEtrvXTfMyTKXbd1/HHMJAAAAAiddlLhfqTbYRHHF1Lz6TWrOlgTqgJOVNUtnbrEOJnu3Z8A4XQeau+recrX50mqUninFEbVghPZ+aviBIL3xvhQ==</SSIS:Property>
           <SSIS:Property SSIS:Name="FormatVersion">1</SSIS:Property>
         </SSIS:Properties>
         <SSIS:Packages>
@@ -82,7 +82,7 @@
                 <SSIS:Property SSIS:Name="IncludeInDebugDump">0</SSIS:Property>
                 <SSIS:Property SSIS:Name="Required">0</SSIS:Property>
                 <SSIS:Property SSIS:Name="Sensitive">0</SSIS:Property>
-                <SSIS:Property SSIS:Name="Value">Data Source=NOTE-ERICK;Initial Catalog=ESTOQUE_SOURCE;Provider=SQLNCLI11.1;Integrated Security=SSPI;Auto Translate=False;</SSIS:Property>
+                <SSIS:Property SSIS:Name="Value">Data Source=.;Initial Catalog=ESTOQUE_SOURCE;Provider=SQLNCLI11.1;Integrated Security=SSPI;Auto Translate=False;Application Name=SSIS-{8C918B3E-3E41-482D-867E-298B6A5B11D6}ESTOQUE_SOURCE;</SSIS:Property>
                 <SSIS:Property SSIS:Name="DataType">18</SSIS:Property>
               </SSIS:Properties>
             </SSIS:Parameter>
@@ -186,7 +186,7 @@
                 <SSIS:Property SSIS:Name="IncludeInDebugDump">0</SSIS:Property>
                 <SSIS:Property SSIS:Name="Required">0</SSIS:Property>
                 <SSIS:Property SSIS:Name="Sensitive">0</SSIS:Property>
-                <SSIS:Property SSIS:Name="Value">NOTE-ERICK</SSIS:Property>
+                <SSIS:Property SSIS:Name="Value">.</SSIS:Property>
                 <SSIS:Property SSIS:Name="DataType">18</SSIS:Property>
               </SSIS:Properties>
             </SSIS:Parameter>
@@ -230,7 +230,7 @@
                 <SSIS:Property SSIS:Name="IncludeInDebugDump">0</SSIS:Property>
                 <SSIS:Property SSIS:Name="Required">0</SSIS:Property>
                 <SSIS:Property SSIS:Name="Sensitive">0</SSIS:Property>
-                <SSIS:Property SSIS:Name="Value">Data Source=NOTE-ERICK;Initial Catalog=ESTOQUE_STG;Provider=SQLNCLI11.1;Integrated Security=SSPI;Application Name=SSIS-Package-{17DB90C4-FE9B-4D37-802C-5D035856A406}NOTE-ERICK.ESTOQUE_STG;Auto Translate=False;</SSIS:Property>
+                <SSIS:Property SSIS:Name="Value">Data Source=.;Initial Catalog=ESTOQUE_STG;Provider=SQLNCLI11.1;Integrated Security=SSPI;Auto Translate=False;Application Name=SSIS-Package-{17DB90C4-FE9B-4D37-802C-5D035856A406}NOTE-ERICK.ESTOQUE_STG;</SSIS:Property>
                 <SSIS:Property SSIS:Name="DataType">18</SSIS:Property>
               </SSIS:Properties>
             </SSIS:Parameter>
@@ -334,7 +334,7 @@
                 <SSIS:Property SSIS:Name="IncludeInDebugDump">0</SSIS:Property>
                 <SSIS:Property SSIS:Name="Required">0</SSIS:Property>
                 <SSIS:Property SSIS:Name="Sensitive">0</SSIS:Property>
-                <SSIS:Property SSIS:Name="Value">NOTE-ERICK</SSIS:Property>
+                <SSIS:Property SSIS:Name="Value">.</SSIS:Property>
                 <SSIS:Property SSIS:Name="DataType">18</SSIS:Property>
               </SSIS:Properties>
             </SSIS:Parameter>
@@ -378,7 +378,7 @@
                 <SSIS:Property SSIS:Name="IncludeInDebugDump">0</SSIS:Property>
                 <SSIS:Property SSIS:Name="Required">0</SSIS:Property>
                 <SSIS:Property SSIS:Name="Sensitive">0</SSIS:Property>
-                <SSIS:Property SSIS:Name="Value">Data Source=NOTE-ERICK;Initial Catalog=ESTOQUE_DW;Provider=SQLNCLI11.1;Integrated Security=SSPI;Application Name=SSIS-Package1-{E4BB3C20-EEBB-431F-ABBB-89B08861E458}NOTE-ERICK.ESTOQUE_DW;Auto Translate=False;</SSIS:Property>
+                <SSIS:Property SSIS:Name="Value">Data Source=.;Initial Catalog=ESTOQUE_DW;Provider=SQLNCLI11.1;Integrated Security=SSPI;Auto Translate=False;Application Name=SSIS-Package1-{E4BB3C20-EEBB-431F-ABBB-89B08861E458}NOTE-ERICK.ESTOQUE_DW;</SSIS:Property>
                 <SSIS:Property SSIS:Name="DataType">18</SSIS:Property>
               </SSIS:Properties>
             </SSIS:Parameter>
@@ -482,7 +482,7 @@
                 <SSIS:Property SSIS:Name="IncludeInDebugDump">0</SSIS:Property>
                 <SSIS:Property SSIS:Name="Required">0</SSIS:Property>
                 <SSIS:Property SSIS:Name="Sensitive">0</SSIS:Property>
-                <SSIS:Property SSIS:Name="Value">NOTE-ERICK</SSIS:Property>
+                <SSIS:Property SSIS:Name="Value">.</SSIS:Property>
                 <SSIS:Property SSIS:Name="DataType">18</SSIS:Property>
               </SSIS:Properties>
             </SSIS:Parameter>
@@ -644,10 +644,10 @@
                 <SSIS:Property SSIS:Name="Name">Package1</SSIS:Property>
                 <SSIS:Property SSIS:Name="VersionMajor">1</SSIS:Property>
                 <SSIS:Property SSIS:Name="VersionMinor">0</SSIS:Property>
-                <SSIS:Property SSIS:Name="VersionBuild">13</SSIS:Property>
+                <SSIS:Property SSIS:Name="VersionBuild">16</SSIS:Property>
                 <SSIS:Property SSIS:Name="VersionComments">
                 </SSIS:Property>
-                <SSIS:Property SSIS:Name="VersionGUID">{94698A99-76C4-4344-BFB7-B19306939E4D}</SSIS:Property>
+                <SSIS:Property SSIS:Name="VersionGUID">{FE673918-6D22-4CEA-91D0-42EE6E29D315}</SSIS:Property>
                 <SSIS:Property SSIS:Name="PackageFormatVersion">8</SSIS:Property>
                 <SSIS:Property SSIS:Name="Description">
                 </SSIS:Property>
@@ -797,10 +797,10 @@
                 <SSIS:Property SSIS:Name="Name">ALL_EXECUTE</SSIS:Property>
                 <SSIS:Property SSIS:Name="VersionMajor">1</SSIS:Property>
                 <SSIS:Property SSIS:Name="VersionMinor">0</SSIS:Property>
-                <SSIS:Property SSIS:Name="VersionBuild">14</SSIS:Property>
+                <SSIS:Property SSIS:Name="VersionBuild">15</SSIS:Property>
                 <SSIS:Property SSIS:Name="VersionComments">
                 </SSIS:Property>
-                <SSIS:Property SSIS:Name="VersionGUID">{4C3F84A1-4336-400C-8ECA-A046D670C753}</SSIS:Property>
+                <SSIS:Property SSIS:Name="VersionGUID">{C6EB9DE9-A2F6-4847-A8DD-55C54006D9A8}</SSIS:Property>
                 <SSIS:Property SSIS:Name="PackageFormatVersion">8</SSIS:Property>
                 <SSIS:Property SSIS:Name="Description">
                 </SSIS:Property>
