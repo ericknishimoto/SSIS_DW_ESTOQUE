@@ -2,98 +2,98 @@
 <BuildLog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <ProjectInfo>
     <Name>IntegrationServices</Name>
-    <LastWriteTime>2022-08-12T16:17:28Z</LastWriteTime>
+    <LastWriteTime>2022-08-12T16:17:26.6608112Z</LastWriteTime>
     <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
   </ProjectInfo>
   <LastBuildInfos>
     <ProjectBuildItemInfo>
       <Name>CargaDimSubcategoria.dtsx</Name>
-      <LastWriteTime>2022-08-12T16:22:58Z</LastWriteTime>
+      <LastWriteTime>2022-08-12T16:22:57.9566363Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
     <ProjectBuildItemInfo>
       <Name>CargaDimLoja.dtsx</Name>
-      <LastWriteTime>2022-08-12T16:04:14Z</LastWriteTime>
+      <LastWriteTime>2022-08-12T16:04:12.0611922Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
     <ProjectBuildItemInfo>
       <Name>CargaDimLote.dtsx</Name>
-      <LastWriteTime>2022-08-12T16:04:44Z</LastWriteTime>
+      <LastWriteTime>2022-08-12T16:04:42.9124484Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
     <ProjectBuildItemInfo>
       <Name>CargaDimCategoria.dtsx</Name>
-      <LastWriteTime>2022-08-12T16:04:14Z</LastWriteTime>
+      <LastWriteTime>2022-08-12T16:04:12.0762723Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
     <ProjectBuildItemInfo>
       <Name>CargaDimTempo.dtsx</Name>
-      <LastWriteTime>2022-08-11T21:29:50Z</LastWriteTime>
+      <LastWriteTime>2022-08-11T21:29:49.932354Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
     <ProjectBuildItemInfo>
       <Name>CargaDimProduto.dtsx</Name>
-      <LastWriteTime>2022-08-12T16:05:32Z</LastWriteTime>
+      <LastWriteTime>2022-08-12T16:05:30.8356574Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
     <ProjectBuildItemInfo>
       <Name>CargaDimFornecedor.dtsx</Name>
-      <LastWriteTime>2022-08-12T16:04:14Z</LastWriteTime>
+      <LastWriteTime>2022-08-12T16:04:12.0722832Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
     <ProjectBuildItemInfo>
       <Name>CargaStgEntrada.dtsx</Name>
-      <LastWriteTime>2022-08-12T12:25:20Z</LastWriteTime>
+      <LastWriteTime>2022-08-12T12:25:19.9952071Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
     <ProjectBuildItemInfo>
       <Name>CargaFatoEntrada.dtsx</Name>
-      <LastWriteTime>2022-08-17T13:59:12.7109527Z</LastWriteTime>
+      <LastWriteTime>2022-08-12T16:10:58.7468129Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
     <ProjectBuildItemInfo>
       <Name>CargaFatoSaida.dtsx</Name>
-      <LastWriteTime>2022-08-12T16:11:00Z</LastWriteTime>
+      <LastWriteTime>2022-08-12T16:10:58.0033806Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
     <ProjectBuildItemInfo>
       <Name>CargaStgFornecedor.dtsx</Name>
-      <LastWriteTime>2022-08-12T12:27:24Z</LastWriteTime>
+      <LastWriteTime>2022-08-12T12:27:23.0436505Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
     <ProjectBuildItemInfo>
       <Name>CargaStgLoja.dtsx</Name>
-      <LastWriteTime>2022-08-12T12:27:24Z</LastWriteTime>
+      <LastWriteTime>2022-08-12T12:27:23.039663Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
     <ProjectBuildItemInfo>
       <Name>CargaStgLote.dtsx</Name>
-      <LastWriteTime>2022-08-12T12:27:24Z</LastWriteTime>
+      <LastWriteTime>2022-08-12T12:27:23.0356767Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
     <ProjectBuildItemInfo>
       <Name>CargaStgProduto.dtsx</Name>
-      <LastWriteTime>2022-08-12T12:27:24Z</LastWriteTime>
+      <LastWriteTime>2022-08-12T12:27:23.0316898Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
     <ProjectBuildItemInfo>
       <Name>CargaStgSaida.dtsx</Name>
-      <LastWriteTime>2022-08-12T12:27:24Z</LastWriteTime>
+      <LastWriteTime>2022-08-12T12:27:23.0274003Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
     <ProjectBuildItemInfo>
       <Name>CargaStgSubcategoria.dtsx</Name>
-      <LastWriteTime>2022-08-12T12:27:24Z</LastWriteTime>
+      <LastWriteTime>2022-08-12T12:27:23.0234099Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
     <ProjectBuildItemInfo>
       <Name>CargaStgCategoria.dtsx</Name>
-      <LastWriteTime>2022-08-12T15:59:22Z</LastWriteTime>
+      <LastWriteTime>2022-08-12T15:59:21.7050852Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
     <ProjectBuildItemInfo>
       <Name>EXECUTE.dtsx</Name>
-      <LastWriteTime>2022-08-12T17:54:02Z</LastWriteTime>
+      <LastWriteTime>2022-08-12T16:15:38.1666839Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
   </LastBuildInfos>

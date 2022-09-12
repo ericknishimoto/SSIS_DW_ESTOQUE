@@ -11,8 +11,8 @@
   DTS:LocaleID="1046"
   DTS:ObjectName="Package1"
   DTS:PackageType="5"
-  DTS:VersionBuild="18"
-  DTS:VersionGUID="{BB74EB1F-0890-489A-AEBC-2484822604F5}">
+  DTS:VersionBuild="13"
+  DTS:VersionGUID="{94698A99-76C4-4344-BFB7-B19306939E4D}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:Variables>
@@ -4014,25 +4014,25 @@ where [refTable].[IDSUBCATEGORIA] = ?</property>
         <NodeLayout
           Size="246,42"
           Id="Package\Capturar MAX DataEntrada Variavel"
-          TopLeft="73.5,43.5" />
+          TopLeft="69.5,39.5" />
         <NodeLayout
           Size="185,42"
           Id="Package\Tarefa Fluxo de Dados"
-          TopLeft="110.5,149.5" />
+          TopLeft="107.5,146.5" />
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint]"
-          TopLeft="199.75,85.5">
+          TopLeft="196.25,81.5">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="0,64"
+              EndConnector="0,65"
               Start="0,0"
-              End="0,56.5">
+              End="0,57.5">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,56.5" />
+                    End="0,57.5" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -4042,7 +4042,7 @@ where [refTable].[IDSUBCATEGORIA] = ?</property>
           </EdgeLayout.Labels>
         </EdgeLayout>
         <AnnotationLayout
-          Text="Captura a DATA MAXIMA existente na FATO&#xA;e salva em uma variável, que será utilizada posteriormente&#xA;na query de origem da stage, adicionando somente registros&#xA;após esta data... "
+          Text="Captura a DATA MAXIMA existente na FATO&#xD;&#xA;e salva em uma variável, que será utilizada posteriormente&#xD;&#xA;na query de origem da stage, adicionando somente registros&#xD;&#xA;após esta data... "
           ParentId="Package"
           FontInfo="{assembly:Null}"
           Size="351,88"
@@ -4099,7 +4099,7 @@ where [refTable].[IDSUBCATEGORIA] = ?</property>
         <NodeLayout
           Size="152,42"
           Id="Package\Tarefa Fluxo de Dados\Origem OLE DB"
-          TopLeft="6.5,7.5" />
+          TopLeft="5.5,6.5" />
         <NodeLayout
           Size="156,42"
           Id="Package\Tarefa Fluxo de Dados\Coluna Derivada 1"
@@ -4428,30 +4428,30 @@ where [refTable].[IDSUBCATEGORIA] = ?</property>
         </EdgeLayout>
         <EdgeLayout
           Id="Package\Tarefa Fluxo de Dados.Paths[Saída de Origem OLE DB]"
-          TopLeft="82.5,49.5">
+          TopLeft="81.5,48.5">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="120,100.5"
+              EndConnector="121,101.5"
               Start="0,0"
-              End="120,93">
+              End="121,94">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,46.25" />
+                    End="0,46.75" />
                   <mssgle:CubicBezierSegment
-                    Point1="0,46.25"
-                    Point2="0,50.25"
-                    Point3="4,50.25" />
+                    Point1="0,46.75"
+                    Point2="0,50.75"
+                    Point3="4,50.75" />
                   <mssgle:LineSegment
-                    End="116,50.25" />
+                    End="117,50.75" />
                   <mssgle:CubicBezierSegment
-                    Point1="116,50.25"
-                    Point2="120,50.25"
-                    Point3="120,54.25" />
+                    Point1="117,50.75"
+                    Point2="121,50.75"
+                    Point3="121,54.75" />
                   <mssgle:LineSegment
-                    End="120,93" />
+                    End="121,94" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -4759,6 +4759,13 @@ where [refTable].[IDSUBCATEGORIA] = ?</property>
           Size="274,120"
           Id="71f2f292-e24d-4090-b1ce-0716a137afc5"
           TopLeft="500.5,85" />
+        <AnnotationLayout
+          Text="W"
+          ParentId="Package\Tarefa Fluxo de Dados"
+          FontInfo="{assembly:Null}"
+          Size="40,60"
+          Id="929d6723-dc27-4652-9065-201db2373543"
+          TopLeft="126,5.5" />
       </GraphLayout>
     </LayoutInfo>
   </TaskHost>

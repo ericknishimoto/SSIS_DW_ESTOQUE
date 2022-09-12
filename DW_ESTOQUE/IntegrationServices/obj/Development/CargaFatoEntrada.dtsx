@@ -11,8 +11,8 @@
   DTS:LocaleID="1046"
   DTS:ObjectName="Package1"
   DTS:PackageType="5"
-  DTS:VersionBuild="16"
-  DTS:VersionGUID="{FE673918-6D22-4CEA-91D0-42EE6E29D315}">
+  DTS:VersionBuild="13"
+  DTS:VersionGUID="{94698A99-76C4-4344-BFB7-B19306939E4D}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:Variables>
@@ -4042,7 +4042,7 @@ where [refTable].[IDSUBCATEGORIA] = ?</property>
           </EdgeLayout.Labels>
         </EdgeLayout>
         <AnnotationLayout
-          Text="Captura a DATA MAXIMA existente na FATO&#xA;e salva em uma variável, que será utilizada posteriormente&#xA;na query de origem da stage, adicionando somente registros&#xA;após esta data... "
+          Text="Captura a DATA MAXIMA existente na FATO&#xD;&#xA;e salva em uma variável, que será utilizada posteriormente&#xD;&#xA;na query de origem da stage, adicionando somente registros&#xD;&#xA;após esta data... "
           ParentId="Package"
           FontInfo="{assembly:Null}"
           Size="351,88"
@@ -4759,6 +4759,13 @@ where [refTable].[IDSUBCATEGORIA] = ?</property>
           Size="274,120"
           Id="71f2f292-e24d-4090-b1ce-0716a137afc5"
           TopLeft="500.5,85" />
+        <AnnotationLayout
+          Text="W"
+          ParentId="Package\Tarefa Fluxo de Dados"
+          FontInfo="{assembly:Null}"
+          Size="40,60"
+          Id="929d6723-dc27-4652-9065-201db2373543"
+          TopLeft="126,5.5" />
       </GraphLayout>
     </LayoutInfo>
   </TaskHost>

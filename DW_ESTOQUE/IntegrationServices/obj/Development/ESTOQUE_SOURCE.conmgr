@@ -7,6 +7,6 @@
     <DTS:ConnectionManager
       DTS:ConnectRetryCount="1"
       DTS:ConnectRetryInterval="5"
-      DTS:ConnectionString="Data Source=.;Initial Catalog=ESTOQUE_SOURCE;Provider=SQLNCLI11.1;Integrated Security=SSPI;Auto Translate=False;Application Name=SSIS-{8C918B3E-3E41-482D-867E-298B6A5B11D6}ESTOQUE_SOURCE;" />
+      DTS:ConnectionString="Data Source=NOTE-ERICK;Initial Catalog=ESTOQUE_SOURCE;Provider=SQLNCLI11.1;Integrated Security=SSPI;Auto Translate=False;" />
   </DTS:ObjectData>
 </DTS:ConnectionManager>
